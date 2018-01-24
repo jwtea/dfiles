@@ -1,0 +1,12 @@
+rename-session example
+rename-window local
+send "cd ~/Vagrants/Ubuntu16.04" C-m
+send "vagrant reload" C-m
+send "vagrant ssh" C-m
+send "cd /var/www/example" C-m
+split-window -h
+send "cd ~/Sites/example" C-m
+split-window -v
+send "cd ~/Vagrants/Ubuntu16.04" C-m
+send "vagrant ssh;" C-m
+send "mysql -u root" C-m
