@@ -15,6 +15,8 @@
 - Epic games Launcher
 - OBS
 - Golang
+- Ansible
+- Terraform
 - Elixir
 
 ## Tmux
