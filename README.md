@@ -14,6 +14,8 @@
 - Adobe suite
 - Epic games Launcher
 - OBS
+- Golang
+- Elixir
 
 ## Tmux
 
